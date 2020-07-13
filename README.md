@@ -3,7 +3,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 Hi, my name is Tim, I'm a software developer living in Emden, which is located at the beautiful north sea coast of germany.
 
 For the majority of the code I have written I used C#, Java, Javascript, Ruby, C and C++. I took my first steps in languages like Pascal and Basic in the mid 1990s and lately played a bit with functional programming in Elixir/Erlang, as well as Haskell, purescript and elm.
