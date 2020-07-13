@@ -11,6 +11,6 @@ For most of my sideprojects I like to let vscode suck the ideas out of my brain,
 When I'm not writing code I like to do sports like weightlifting in my homegym. I love traveling with my beautiful wife Steffi and sometimes I just have a beer (maybe some more) with my friends.
 <p style="text-align:center;">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Stats](https://github-readme-stats.vercel.app/api?username=timdeputter&show_icons=true&title_color=00bfa6&icon_color=79ff97&text_color=efefef&bg_color=3f3d56)
 
 </p>
