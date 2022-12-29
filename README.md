@@ -3,14 +3,13 @@
 <br/>
 <br/>
 <br/>
-Hi, my name is Tim, I'm a software developer living in Emden, which is located at the beautiful north sea coast of germany.
+Hi, my name is Tim. I am a software developer who resides in Emden, a city located on the breathtaking North Sea coast of Germany.
 
-The majority of code I have written was in C#, Java, Javascript, Ruby, C and C++. I took my first steps in languages like Pascal and Basic in the mid 1990s and dipped into functional programming in Elixir/Erlang, as well as Haskell, purescript and elm a few years ago.
-I'm also into test driven development, domain driven design and simple design.
+I have primarily written code using C#, Java, Javascript, Ruby, C, and C++. In the mid 1990s, I began learning languages such as Pascal and Basic, and more recently, I have delved into functional programming using Elixir/Erlang, Haskell, Purescript, and Elm. I am also interested in test-driven development, domain-driven design, and simple design.
 
-For most of my sideprojects I like to let vscode suck the ideas out of my brain, but I'm also not reluctant to ide's. For my dayjob this is mainly MS Visual Studio, but in the past I have made some experience with other ides (like intellij or eclipse) too.
+In my spare time, I often turn to Visual Studio Code to inspire and guide my side projects. However, I am also comfortable using a variety of integrated development environments (IDEs). For my day job, I primarily use Microsoft Visual Studio, but I have also had the opportunity to work with other IDEs such as IntelliJ and Eclipse.
 
-When I'm not writing code I like to do sports like weightlifting in my homegym. I love traveling with my beautiful wife Steffi and sometimes I just have a beer (maybe some more) with my friends.
+When I am not coding, I enjoy weightlifting in my home gym. I also relish the opportunity to travel with my beautiful wife, Steffi, and occasionally, I enjoy a beer (maybe some more) with friends.
 <br/>
 <br/>
 <br/>
