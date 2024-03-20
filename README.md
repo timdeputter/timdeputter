@@ -15,6 +15,6 @@ When I am not coding, I enjoy weightlifting in my home gym. I also relish the op
 <br/>
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=timdeputter&show_icons=true&title_color=00bfa6&icon_color=79ff97&text_color=efefef&bg_color=3f3d56" />
-  <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdeputter&layout=donut" />
-
+  <br/>
+  <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdeputter&layout=compact" />
 </p>
